@@ -1,1 +1,1 @@
-Welcome to day ero
+Welcome to day zero
