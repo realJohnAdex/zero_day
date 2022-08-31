@@ -1,1 +1,1 @@
-Welcome to day zero
+Learning about Vagrant
